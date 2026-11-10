@@ -26,7 +26,7 @@ import thunderFF_pb2
 
 import config as _cfg
 import tools as _tools
-import starconfig
+import shadowconfig as starconfig
 import toolsudp as _toolsudp
 import ff_udp as _ff_udp
 import ff_match as _ff_match

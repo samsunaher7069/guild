@@ -2,7 +2,7 @@ httpx
 google-play-scraper
 pycryptodome
 protobuf-decoder
-protobuf
+protobuf>=4.25.1,<5
 requests
 aiohttp
 urllib3
